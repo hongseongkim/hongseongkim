@@ -1,25 +1,25 @@
 ### Skill stacks
 
 #### Lenguage:
-![Static Badge](https://img.shields.io/badge/Java-acadb6)
-![Static Badge](https://img.shields.io/badge/Kotlin-726890)
-![Static Badge](https://img.shields.io/badge/SQL-382f3c)
+![Static Badge](https://img.shields.io/badge/Java-020202)
+![Static Badge](https://img.shields.io/badge/Kotlin-020202)
+![Static Badge](https://img.shields.io/badge/SQL-020202)
 
 #### Back-And:
 ![Static Badge](https://img.shields.io/badge/JPA-222222)
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot-020202)
-![Static Badge](https://img.shields.io/badge/RESTful%20API-acadb6)
-![Static Badge](https://img.shields.io/badge/Gradle-726890)
+![Static Badge](https://img.shields.io/badge/RESTful%20API-020202)
+![Static Badge](https://img.shields.io/badge/Gradle-020202)
 
 #### Database:
-![Static Badge](https://img.shields.io/badge/MySQL-726890)
-![Static Badge](https://img.shields.io/badge/Oracle-382f3c)
+![Static Badge](https://img.shields.io/badge/MySQL-020202)
+![Static Badge](https://img.shields.io/badge/Oracle-020202)
 
 #### Expanding Skillset and DevOps:
-![Static Badge](https://img.shields.io/badge/AWS-222222)
+![Static Badge](https://img.shields.io/badge/AWS-020202)
 ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-020202)
-![Static Badge](https://img.shields.io/badge/Docker-acadb6)
-![Static Badge](https://img.shields.io/badge/TDD-726890)
+![Static Badge](https://img.shields.io/badge/Docker-020202)
+![Static Badge](https://img.shields.io/badge/TDD-020202)
 
 ### 자기소개
 
