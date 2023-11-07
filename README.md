@@ -4,7 +4,6 @@
 
 
 ### Skill stacks
-
 #### Lenguage:
 ![Static Badge](https://img.shields.io/badge/Java-1e2429)
 ![Static Badge](https://img.shields.io/badge/Kotlin-717f8a)
