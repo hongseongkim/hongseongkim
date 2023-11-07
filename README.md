@@ -20,9 +20,9 @@
 ![Static Badge](https://img.shields.io/badge/Oracle-212b1d)
 
 #### Expanding Skillset and DevOps:
-![Static Badge](https://img.shields.io/badge/AWS-a7a7a7)
-![Static Badge](https://img.shields.io/badge/GitHub%20Actions-1e2429)
-![Static Badge](https://img.shields.io/badge/Docker-717f8a)
+![Static Badge](https://img.shields.io/badge/AWS-a7a7a7) 
+![Static Badge](https://img.shields.io/badge/GitHub%20Actions-1e2429) 
+![Static Badge](https://img.shields.io/badge/Docker-717f8a) 
 ![Static Badge](https://img.shields.io/badge/TDD-432333)
 
 
