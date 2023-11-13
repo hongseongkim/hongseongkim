@@ -1,16 +1,16 @@
 
 ### 자기소개
 
+### 자기소개
 
 <details>
 <summary>Skill stacks</summary>
-Skill stacks
-#### Lenguage:
+
+#### Language:
 ![Static Badge](https://img.shields.io/badge/Java-1e2429)
 ![Static Badge](https://img.shields.io/badge/Kotlin-717f8a)
 
-
-#### Back-And:
+#### Back-End:
 ![Static Badge](https://img.shields.io/badge/JPA-212b1d)
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot-a7a7a7)
 ![Static Badge](https://img.shields.io/badge/RESTful%20API-1e2429)
@@ -25,7 +25,8 @@ Skill stacks
 ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-1e2429) 
 ![Static Badge](https://img.shields.io/badge/Docker-717f8a) 
 ![Static Badge](https://img.shields.io/badge/TDD-432333)
-![Static Badge](https://img.shields.io/badge/mongodb-212b1d)
+![Static Badge](https://img.shields.io/badge/MongoDB-212b1d)
+
 </details>
 
 <details>
