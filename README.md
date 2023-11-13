@@ -7,7 +7,7 @@
 #### Lenguage:
 ![Static Badge](https://img.shields.io/badge/Java-1e2429)
 ![Static Badge](https://img.shields.io/badge/Kotlin-717f8a)
-![Static Badge](https://img.shields.io/badge/SQL-432333)
+
 
 #### Back-And:
 ![Static Badge](https://img.shields.io/badge/JPA-212b1d)
