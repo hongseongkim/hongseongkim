@@ -32,8 +32,7 @@
 
 - [자바 알고리즘 인터뷰 with 코틀린]
 - [Tacademy 코틀린 강의]([https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=143](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=140))
-- [함수형 프로그래밍]([https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=143))
-</details>
+- [Tacademy 함수형 프로그래밍]([https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=143))
 <!--
 **hongseongkim/hongseongkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
