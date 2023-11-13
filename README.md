@@ -24,12 +24,14 @@
 ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-1e2429) 
 ![Static Badge](https://img.shields.io/badge/Docker-717f8a) 
 ![Static Badge](https://img.shields.io/badge/TDD-432333)
+![Static Badge](https://img.shields.io/badge/mongodb-212b1d)
 
 
 <details>
 <summary>2023</summary>
 
 - [자바 알고리즘 인터뷰 with 코틀린]
+  <a herf="https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=143">Tacademy코틀린<>
 
 </details>
 <!--
