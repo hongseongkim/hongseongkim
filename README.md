@@ -31,7 +31,7 @@
 <summary>2023</summary>
 
 - [자바 알고리즘 인터뷰 with 코틀린]
-  <a herf="https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=143">Tacademy코틀린<>
+- <a herf="https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=143">Tacademy코틀린</a>
 
 </details>
 <!--
