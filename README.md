@@ -1,4 +1,4 @@
-### 자기소개
+### hi i'm hongseong-Kim!
 
 <details>
 <summary>Skill stacks</summary>
