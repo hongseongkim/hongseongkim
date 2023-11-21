@@ -1,7 +1,6 @@
 ### 김홍성 | 자바 개발에 열정을 품고 새로운 기술에 끊임없이 도전하는 주니어 개발자
 
-<details>
-<summary>Skill stacks</summary>
+Skill stacks
   
 - ![Static Badge](https://img.shields.io/badge/Java-1e2429)
 - ![Static Badge](https://img.shields.io/badge/Kotlin-717f8a)
@@ -17,6 +16,6 @@
 - ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-1e2429) 
 - ![Static Badge](https://img.shields.io/badge/Docker-717f8a) 
 - ![Static Badge](https://img.shields.io/badge/TDD-432333)
-</details>
+
 
 
